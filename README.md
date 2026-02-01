@@ -1,6 +1,7 @@
 # Airflow ETL Pipeline: S3 to Snowflake with Email Notification
 
-![Uploading ChatGPT Image Feb 1, 2026, 07_14_13 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Feb 1, 2026, 07_14_13 PM" src="https://github.com/user-attachments/assets/5a31589d-e235-4b85-b2f2-0af0e5f019fb" />
+
 
 
 This project demonstrates a complete end to end data engineering pipeline using:
