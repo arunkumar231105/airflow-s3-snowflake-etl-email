@@ -1,5 +1,8 @@
 # Airflow ETL Pipeline: S3 to Snowflake with Email Notification
 
+![Uploading ChatGPT Image Feb 1, 2026, 07_14_13 PM.png…]()
+
+
 This project demonstrates a complete end to end data engineering pipeline using:
 
 - AWS S3 as data source
